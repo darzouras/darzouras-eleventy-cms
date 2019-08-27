@@ -1,7 +1,7 @@
 module.exports = function (eleventyConfig) {
     // prevents processing folders with static assets
     eleventyConfig.addPassthroughCopy("static/img");
-    //eleventyConfig.addPassthroughCopy("admin");
+    eleventyConfig.addPassthroughCopy("admin");
     eleventyConfig.addPassthroughCopy("_includes/assets/");
 
     // markdown plugins
