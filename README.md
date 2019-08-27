@@ -1,1 +1,1 @@
-This is an Eleventy + NetlifyCMS project based very roughly on the (Eleventy + NetlifyCMS boilerplate code)[https://github.com/danurbanowicz/eleventy-netlify-boilerplate].
+This is an Eleventy + NetlifyCMS project based very roughly on the [Eleventy + NetlifyCMS boilerplate code](https://github.com/danurbanowicz/eleventy-netlify-boilerplate).
