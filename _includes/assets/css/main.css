@@ -14,10 +14,6 @@ main {
     display: block;
 }
 
-a {
-    background-color: transparent;
-}
-
 img {
     max-width: 100%;
     height: auto;
@@ -53,6 +49,14 @@ body {
     font-weight: 250;
     background: var(--puke-yellow);
     color: var(--dark-blue);
+}
+
+a {
+    color: var(--watermelon-red);
+}
+a:hover {
+    background: var(--watermelon-red);
+    color: var(--puke-yellow);
 }
 
 h1 {
