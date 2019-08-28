@@ -49,7 +49,7 @@ body {
 
 main {
     background: var(--puke-yellow);
-    margin: 15px auto;
+    margin: 15px auto 75px;
     width: 90%;
     max-width: 666px;
 }
@@ -98,4 +98,32 @@ p {
 time {
     font-size: .8rem;
     font-weight: 550;
+}
+
+/* nav footer thing */
+nav {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: var(--dark-blue);
+    padding: 15px 0;
+    text-transform: uppercase;
+    z-index: 1;
+}
+nav ul {
+    list-style: none;
+    margin: 0 15px;
+    padding: none;
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+nav a {
+    color: var(--puke-yellow);
+    text-decoration: none;
+}
+nav a:hover {
+    background: none;
+    color: var(--orange);
 }

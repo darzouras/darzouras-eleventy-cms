@@ -7,6 +7,8 @@
             {{ layoutContent | safe }}
         </main>
 
+        {% include "components/nav.njk" %}
+
         {% for file in scripts %}
             <script src="{{ file }}"></script>
         {% endfor %}
