@@ -4,6 +4,14 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("admin");
     eleventyConfig.addPassthroughCopy("_includes/assets/");
 
+    // only content in the `posts/` directory
+    eleventyConfig.addCollection("posts", function (collection) {
+        return collection.getAllSorted().filter(function (item) {
+            return item.inputPath.match(/^\.\/posts\//) !== null;
+        });
+    });
+
+
     // markdown plugins
     let markdownIt = require("markdown-it");
     let markdownItAnchor = require("markdown-it-anchor");
