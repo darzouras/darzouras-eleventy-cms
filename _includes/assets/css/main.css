@@ -11,7 +11,16 @@
 
 body {
     font-family: "Public Sans", Arial, Helvetica, sans-serif;
-    font-variation-settings: 'wght' 250;
+    font-weight: 250;
     font-size: 1.75em;
+}
+
+h1 {
+    font-size: 2rem;
+    letter-spacing: 0.2em;
+    font-weight: 750;
+    text-transform: uppercase;
+    line-height: .8em;
+    max-width: 425px;
 }
 
