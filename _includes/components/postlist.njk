@@ -10,16 +10,17 @@
 					{% endif %}
 				</a>
 			</h3>
-			{% if post.data.summary %}
-				<p>
-					{{ post.data.summary }}
-				</p>
-			{% endif %}
 			<p>
 				<time datetime="{{ post.date | machineDate }}">
 					{{ post.date | readableDate }}
 				</time>
 			</p>
+
+			{% if post.data.summary %}
+				<p>
+					{{ post.data.summary }}
+				</p>
+			{% endif %}
 		</article>
 	{% endfor %}
 </section>
