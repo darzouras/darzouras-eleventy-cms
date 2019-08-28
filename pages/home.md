@@ -1,10 +1,7 @@
 ---
-layout: layouts/home.njk
 title: Home
 permalink: /
-navtitle: Home
 ---
-
-#Hello!
+# Hi
 
 This is a test for the home page.
