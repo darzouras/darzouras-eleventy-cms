@@ -11,6 +11,21 @@ collections:
     create: false
     slug: "{{slug}}"
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Permalink", name: "permalink", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Permalink"
+        name: "permalink"
+        widget: "string"
+      - label: "Layout"
+        name: "layout"
+        widget: "select"
+        options:
+          - label: "Home"
+            value: "layouts/home.njk"
+        default:
+          - label: "Home"
+            value: "layouts/home.njk"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
