@@ -88,8 +88,8 @@ h1 {
     font-weight: 750;
     text-transform: uppercase;
     line-height: .8em;
-    width: min-content;
     color: var(--watermelon-red);
+    word-wrap: break-word;
 }
 
 /* text */
