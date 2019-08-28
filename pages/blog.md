@@ -1,5 +1,6 @@
 ---
-layout: layouts/blog.njk
-title: Home
+title: Blog
 permalink: /blog/
+layout: layouts/blog.njk
 ---
+Just saying.
