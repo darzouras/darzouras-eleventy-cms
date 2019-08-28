@@ -25,6 +25,13 @@ module.exports = function (eleventyConfig) {
         permalink: false
     };
 
+    // only content in the `posts/` directory
+    eleventyConfig.addCollection("posts", function (collection) {
+        return collection.getAllSorted().filter(function (item) {
+            return item.inputPath.match(/^\.\/posts\//) !== null;
+        });
+    });
+
     // prevents processing folders with static assets
     eleventyConfig.addPassthroughCopy("static/img");
     eleventyConfig.addPassthroughCopy("admin");

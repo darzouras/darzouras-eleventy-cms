@@ -21,11 +21,15 @@ collections:
         name: "layout"
         widget: "select"
         options:
+          - label: "Page"
+            value: "layouts/page.njk"
           - label: "Home"
             value: "layouts/home.njk"
+          - label: "Blog"
+            value: "layouts/blog.njk"
         default:
-          - label: "Home"
-            value: "layouts/home.njk"
+          - label: "Page"
+            value: "layouts/page.njk"
       - label: "Body"
         name: "body"
         widget: "markdown"
