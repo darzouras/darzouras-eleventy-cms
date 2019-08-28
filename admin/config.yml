@@ -27,7 +27,7 @@ collections:
             value: "layouts/home.njk"
           - label: "Blog"
             value: "layouts/blog.njk"
-        default: "Page"
+        default: "layouts/page.njk"
       - label: "Body"
         name: "body"
         widget: "markdown"
