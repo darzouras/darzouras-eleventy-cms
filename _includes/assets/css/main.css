@@ -51,10 +51,15 @@ body {
     color: var(--dark-blue);
 }
 
-main{
+main {
     margin: 15px auto;
     width: 90%;
     max-width: 666px;
+}
+@media (min-width: 768px) {
+    main {
+        margin: 15px;
+    }
 }
 
 /* link styling */
