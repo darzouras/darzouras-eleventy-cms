@@ -3,9 +3,15 @@
     font-family: "Public Sans";
     font-style: normal;
 }
+@font-face {
+    src: url('/_includes/assets/fonts/PublicSans-Italic-VF.woff2');
+    font-family: "Public Sans Italic";
+    font-style: italic;
+}
 
 body {
     font-family: "Public Sans", Arial, Helvetica, sans-serif;
-    font-variation-settings: 'wght' 100;
-    font-size: 2em;
+    font-variation-settings: 'wght' 250;
+    font-size: 1.75em;
 }
+
