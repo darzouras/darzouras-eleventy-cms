@@ -8,7 +8,7 @@ collections:
   - name: "pages"
     label: "Page"
     folder: "pages"
-    create: false
+    create: true
     slug: "{{slug}}"
     fields:
       - label: "Title"
