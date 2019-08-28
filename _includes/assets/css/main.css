@@ -118,7 +118,7 @@ nav ul {
     display: flex;
     align-items: center;
     flex-wrap: nowrap;
-    align-items: flex-end;
+    justify-content: flex-end;
 }
 nav ul li {
     margin-right: 15px;
