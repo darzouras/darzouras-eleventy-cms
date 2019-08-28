@@ -1,3 +1,35 @@
+/* reset */
+
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+main {
+    display: block;
+}
+
+a {
+    background-color: transparent;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+/* end reset */
+
 @font-face {
     src: url('/_includes/assets/fonts/PublicSans-Roman-VF.woff2');
     font-family: "Public Sans";
@@ -10,7 +42,7 @@
 }
 
 :root {
-    font-size: 1.75em;
+    font-size: 1.35em;
 }
 
 body {
@@ -19,7 +51,7 @@ body {
 }
 
 h1 {
-    font-size: 5rem;
+    font-size: 3rem;
     letter-spacing: 0.2rem;
     font-weight: 750;
     text-transform: uppercase;
@@ -27,3 +59,7 @@ h1 {
     width: min-content;
 }
 
+time {
+    font-size: .8rem;
+    font-weight: 550;
+}

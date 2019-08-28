@@ -1,5 +1,5 @@
 ---
-title: To test on this site
+title: Mission
 date: 2019-08-28T15:21:12.290Z
 summary: A list of goals for this website.
 ---
