@@ -19,10 +19,6 @@ img {
     height: auto;
 }
 
-ol, ul {
-    list-style: none;
-}
-
 /* end reset */
 
 @font-face {
