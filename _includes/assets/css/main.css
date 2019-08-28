@@ -114,10 +114,14 @@ nav {
 nav ul {
     list-style: none;
     margin: 0 15px;
-    padding: none;
+    padding: 0;
     display: flex;
     align-items: center;
     flex-wrap: nowrap;
+    align-items: flex-end;
+}
+nav ul li {
+    margin-right: 15px;
 }
 nav a {
     color: var(--puke-yellow);
