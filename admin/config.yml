@@ -10,3 +10,5 @@ collections:
     folder: "pages"
     create: false
     slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: title", widget: "string" }
