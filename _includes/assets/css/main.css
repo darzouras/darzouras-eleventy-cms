@@ -1,4 +1,11 @@
+@font-face {
+    src: url('/_includes/assets/fonts/PublicSans-Roman-VF.woff2');
+    font-family: "Public Sans";
+    font-style: normal;
+}
+
 body {
-    background: black;
-    color: white;
+    font-family: "Public Sans", Arial, Helvetica, sans-serif;
+    font-variation-settings: 'wght' 100;
+    font-size: 2em;
 }
