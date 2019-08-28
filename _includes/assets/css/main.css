@@ -9,18 +9,21 @@
     font-style: italic;
 }
 
-body {
-    font-family: "Public Sans", Arial, Helvetica, sans-serif;
-    font-weight: 250;
+:root {
     font-size: 1.75em;
 }
 
+body {
+    font-family: "Public Sans", Arial, Helvetica, sans-serif;
+    font-weight: 250;
+}
+
 h1 {
-    font-size: 2rem;
-    letter-spacing: 0.2em;
+    font-size: 5rem;
+    letter-spacing: 0.2rem;
     font-weight: 750;
     text-transform: uppercase;
     line-height: .8em;
-    max-width: 425px;
+    width: min-content;
 }
 
