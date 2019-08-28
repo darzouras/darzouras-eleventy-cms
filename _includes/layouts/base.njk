@@ -6,5 +6,9 @@
         <main>
             {{ layoutContent | safe }}
         </main>
+
+        {% for file in scripts %}
+            <script src="{{ file }}"></script>
+        {% endfor %}
     </body>
 </html>
