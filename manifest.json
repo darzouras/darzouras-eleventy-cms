@@ -6,9 +6,8 @@
     "theme_color": "#eb2c44",
     "icons": [
         {
-            "src": "/ghost-favicon.gif",
-            "type": "image/gif",
-            "sizes": "50x50"
+            "src": "/favicon.ico",
+            "sizes": "16x16"
         }
     ]
 }
