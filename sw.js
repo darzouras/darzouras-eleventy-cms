@@ -1,4 +1,5 @@
 const pagesCacheName = 'pages';
+const timeout = 3000;
 const cacheList = [
     pagesCacheName
 ]
@@ -25,7 +26,7 @@ addEventListener('fetch', function(event) {
     // html requests try network first, then fall back to cache.
     // TODO: add fallback to an offline page
     if (request.headers.get('Accept').includes('text/html')) {
-        event.respondWidth(
+        event.respondWith(
             new Promise( resolveWithPromise => {
                 const timer = setTimeout( () => {
                     // time out: cache
