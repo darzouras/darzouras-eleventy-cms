@@ -1,4 +1,4 @@
-cons pagesCacheName = 'pages';
+const pagesCacheName = 'pages';
 const cacheList = [
     pagesCacheName
 ]
