@@ -36,6 +36,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("static/img");
     eleventyConfig.addPassthroughCopy("admin");
     eleventyConfig.addPassthroughCopy("_includes/assets/");
+    eleventyConfig.addPassthroughCopy("sw.js");
 
     return {
         templateFormats: ["md", "njk", "html", "liquid"],
