@@ -38,6 +38,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("_includes/assets/");
     eleventyConfig.addPassthroughCopy("sw.js");
     eleventyConfig.addPassthroughCopy("manifest.json");
+    eleventyConfig.addPassthroughCopy("ghost-favicon.gif");
 
     return {
         templateFormats: ["md", "njk", "html", "liquid"],
