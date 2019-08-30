@@ -1,7 +1,7 @@
 {
     "name": "DarZouras.com",
     "short_name": "DarZouras",
-    "display": "standalone",
+    "display": "browser",
     "start_url": "/",
     "theme_color": "#eb2c44",
     "icons": [
