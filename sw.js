@@ -15,7 +15,7 @@ addEventListener('install', function() {
     })
 });
 
-addEventListener('fetch', function(event) {
+/* addEventListener('fetch', function(event) {
     const request = event.request;
 
     // ignore requests for the cms portion, non GET requests
@@ -71,4 +71,4 @@ addEventListener('fetch', function(event) {
         )
         return;
     }
-})
+}) */
