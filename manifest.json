@@ -1,0 +1,14 @@
+{
+    "name": "DarZouras.com",
+    "short_name": "DarZouras",
+    "display": "standalone",
+    "start_url": "/",
+    "theme_color": "#eb2c44",
+    "icons": [
+        {
+            "src": "/ghost-favicon.gif",
+            "type": "image/gif",
+            "sizes": "50x50"
+        }
+    ]
+}
