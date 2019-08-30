@@ -43,6 +43,7 @@ img {
 body {
     font-family: "Public Sans", Arial, Helvetica, sans-serif;
     font-weight: 250;
+    font-variation-settings: 'wght' 250;
     background: var(--puke-yellow);
     color: var(--dark-blue);
 }
@@ -86,6 +87,7 @@ h1 {
     font-size: 3rem;
     letter-spacing: 0.2rem;
     font-weight: 750;
+    font-variation-settings: 'wght' 750;
     text-transform: uppercase;
     line-height: .8em;
     color: var(--watermelon-red);
@@ -101,6 +103,7 @@ p {
 time {
     font-size: .8rem;
     font-weight: 550;
+    font-variation-settings: 'wght' 550;
 }
 
 /* nav footer thing */
