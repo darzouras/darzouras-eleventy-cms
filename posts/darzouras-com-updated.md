@@ -7,10 +7,10 @@ It's day one of a four day weekend and I'm neck deep in the rebuild of my person
 
 ![DarZouras.com before the rebuild](/static/img/old-site.jpg "DarZouras.com before the rebuild")
 
-As I'm writing this blog post there are a few things that I've already updated:
+As I'm writing this blog post there are a few things that I've already added based on my time at [An Event Apart](https://aneventapart.com) Chicago:
 
 * I'm using CSS variables!!! I can't believe I went so long not knowing about them. They're so cool and I can't wait to use them for work.
 * I've added a Service Worker and manifest!! I haven't been able to get the page to successfully load while offline yet so I'm still working on it. Still would like to build a page for offline purposes only.
 * I'm using a variable font!! Right now I'm working with Public Sans but I'm considering switching to something that has variant options besides just the weight.
 
-Of course the layout itself is updated as well- I've been playing with this style since I [built a test site using Gatsby](https://darzouras-gatsby.netlify.com).
+Of course the layout itself is updated- I've been playing with this style since I [built a test site using Gatsby](https://darzouras-gatsby.netlify.com). I liked Gatsby a lot but I ultimately decided to pass on it as a builder to use with NetlifyCMS because GraphQL doesn't play well with optional fields. Pretty lame!
