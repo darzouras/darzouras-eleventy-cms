@@ -1,1 +1,0 @@
-temporary text file so the static/img/ folders get added to github
