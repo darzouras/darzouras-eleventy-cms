@@ -9,14 +9,14 @@ What have I been up to?
 
 ## Personally
 
-About to celebrate my first wedding anniversary with my best friend. In the process of buying a home- a huge task that is 100% in order to give our cute dog and fluffy cat better lives.
+Just celebrated the first wedding anniversary with my best friend. Just bought an old house and we're enjoying every bit of it.
 
-Making different versions of this website over and over because I think it's fun. It's fun to try new things.
+Making different versions of this website over and over because I think it's fun.
 
 Dreaming of a day when I can work from home so I can hang out with my furry babies 24/7.
 
 ## Professionally
 
-Building tons of websites for Fusion Marketing, an experimental marketing member of the Endeavor Global Marketing family.
+Building TONS of websites for [160/90](https://160over90.com). Practicing CSS witchcraft and passing on that magic to my colleagues.
 
-Practicing CSS witchcraft and passing on that magic to my colleagues.
+Recently promoted to UX Developer, working out of the St Louis office.
