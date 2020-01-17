@@ -14,3 +14,5 @@ addEventListener('install', function() {
         ])
     })
 });
+
+/* refer: https://adactio.com/serviceworker.js */
