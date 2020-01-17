@@ -3,10 +3,19 @@ title: Uses
 permalink: /uses/
 layout: layouts/page.njk
 ---
-## Editors
+* Overcast for podcasts
+* Spotify Premium for music
+* Netflix, VRV for streaming videos
+* Day One for notes, journaling
+
+## Development
 
 * Visual Studio Code (Dracula color theme)
-* VIM
+* VIM (SpringNight color theme)
+* GitKraken
+* Filezilla
+* Mozilla Firefox
+* Wave, Axe Pro for quick accessibility checks
 
 ## Mechanical Keyboards
 
