@@ -17,6 +17,6 @@ Dreaming of a day when I can work from home so I can hang out with my furry babi
 
 ## Professionally
 
-Building TONS of websites for [160/90](https://160over90.com). Practicing CSS witchcraft and passing on that magic to my colleagues.
+Building TONS of websites for [160/90](https://160over90.com). Practicing CSS witchcraft and passing on that magic to my colleagues. Helping assess web projects built across the 160/90 digital times on web accessibility.
 
-Recently promoted to UX Developer, working out of the St Louis office.
+Studying for the [Web Accessibility Standards certification exam](https://www.accessibilityassociation.org/wascertification).
