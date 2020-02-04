@@ -6,7 +6,8 @@ layout: layouts/page.njk
 * Overcast for podcasts
 * Spotify Premium for music
 * Netflix, VRV for streaming videos
-* Day One for notes, journaling
+* Day One for personal notes, journaling
+* Notion for work notes, task organization
 
 ## Development
 
