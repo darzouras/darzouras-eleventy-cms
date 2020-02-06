@@ -9,8 +9,9 @@ layout: layouts/page.njk
 * Day One for personal notes, journaling
 * Notion for work notes, task organization
 
-## Development
+## Design + Development
 
+* Sketch for UX/UI design
 * Visual Studio Code (Dracula color theme)
 * VIM (SpringNight color theme)
 * GitKraken
