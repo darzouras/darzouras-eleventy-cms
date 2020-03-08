@@ -24,9 +24,9 @@ Studying for the [Web Accessibility Standards certification exam](https://www.ac
 ### 2019 Projects
 
 * [Air Force Heritage Flight Foundation website](https://www.airforceheritageflight.org/)
-* [Goose Island website redesign] (https://www.gooseisland.com)
-* [Horsemen Flight Team website] (http://horsemenflight.com/)
-* [160 over 90 website] (https://160over90.com)
+* [Goose Island website redesign](https://www.gooseisland.com)
+* [Horsemen Flight Team website](http://horsemenflight.com/)
+* [160 over 90 website](https://160over90.com)
 
 ### 2020 Projects
 
