@@ -8,3 +8,5 @@ Early this year the team was presented with the opportunity to work with Maha, a
 ![Screenshot of the DrinkMaha.com website](/static/img/screencapture-drinkmaha-2020-03-07-19_58_42.png)
 
 I was the dev assigned to this project as well, there's nothing wild going on in the front end to report on but it was another project that had to be turned around right away.
+
+You can visit this website at [DrinkMaha.com](https://www.drinkmaha.com).
