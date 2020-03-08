@@ -19,10 +19,16 @@ Dreaming of a day when I can work from home so I can hang out with my furry babi
 
 Building TONS of websites for [160 over 90](https://160over90.com). Practicing CSS witchcraft and passing my magic to willing colleagues. Helping assess web projects built across the 160/90 digital teams on web accessibility. Also doing a little bit of web design.
 
-Most recently:
-
-* [DrinkMaha.com website](https://www.drinkmaha.com) (design + dev)
-* [160over90.com website](https://www.160over90.com) (dev) and some internal portfolio sites
-
-
 Studying for the [Web Accessibility Standards certification exam](https://www.accessibilityassociation.org/wascertification).
+
+### 2019 Projects
+
+* [Air Force Heritage Flight Foundation website](https://www.airforceheritageflight.org/)
+* [Goose Island website redesign] (https://www.gooseisland.com)
+* [Horsemen Flight Team website] (http://horsemenflight.com/)
+* [160 over 90 website] (https://160over90.com)
+
+### 2020 Projects
+
+* [University of Illinois Altogether Extraordinary campaign pages](https://www.uillinois.edu/extraordinary)
+* [Maha Organic Seltzer website](https://www.drinkmaha.com)
