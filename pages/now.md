@@ -28,6 +28,7 @@ Studying for the [Web Accessibility Standards certification exam](https://www.ac
 * [Horsemen Flight Team website](http://horsemenflight.com/)
 * [The Jayson Tatum Foundation website](https://www.thejaysontatumfoundation.org/)
 * [160 over 90 website](https://160over90.com)
+* [Fusion Marketing website](https://www.thisisfusion.com/)
 
 ### 2020 Projects
 
