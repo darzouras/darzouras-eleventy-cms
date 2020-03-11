@@ -9,9 +9,9 @@ What have I been up to?
 
 ## Personally
 
-Enjoying the first spring in my new home with my husband and tending to a small vegetable garden. Every weekend I'm busy tending to our huge yard.
+Enjoying the first spring in my new home with my husband and tending to a small vegetable garden.
 
-Recently went from vegetarian to full vegan. The current state of animal aggriculture is unsustainable. I'm trying to do my part for the environment by refraining from animal products.
+Recently went from vegetarian to full vegan. The current state of animal agriculture is unsustainable. I'm trying to do my part for the environment by refraining from animal products.
 
 Dreaming of a day when I can work from home so I can hang out with my furry babies 24/7.
 
@@ -26,6 +26,7 @@ Studying for the [Web Accessibility Standards certification exam](https://www.ac
 * [Air Force Heritage Flight Foundation website](https://www.airforceheritageflight.org/)
 * [Goose Island website redesign](https://www.gooseisland.com)
 * [Horsemen Flight Team website](http://horsemenflight.com/)
+* [The Jayson Tatum Foundation website](https://www.thejaysontatumfoundation.org/)
 * [160 over 90 website](https://160over90.com)
 
 ### 2020 Projects
