@@ -11,23 +11,22 @@ layout: layouts/page.njk
 
 ## Design + Development
 
-* Sketch for UX/UI design
+* Sketch (for UX/UI design)
 * Visual Studio Code (Dracula color theme)
 * VIM (SpringNight color theme)
-* GitKraken
 * Filezilla
 * Mozilla Firefox
 * Wave, Axe Pro for quick accessibility checks
 
 ## Mechanical Keyboards
 
-* K-Type Mechanical Keyboard w/ Halo Clears (daily, at home)
-* Leopold FC660M w/ Cherry Browns (daily, at work)
-* OLKB Planck w/ Cherry Clears
+* [Keeb.io](https://keeb.io)'s Levinson split keyboard w/ Gateron Blacks, [SA Ice Caps](https://pimpmykeyboard.com/sa-ice-cap-keyset/) (daily, home office, recently fixed!)
+* Leopold FC660M w/ Cherry Browns, [GMK Plum](https://drop.com/buy/massdrop-x-jessica-gmk-plum-custom-keycap-set) (daily, at work)
+* OLKB Planck w/ Cherry Clears, [XDA Oblique](https://dixiemech.store/collections/keycaps/products/xda-oblique)
+* K-Type Mechanical Keyboard w/ Halo Clears, [GMK Metropolis](https://novelkeys.xyz/products/gmk-metropolis)
 * Ducky One w/ Cherry Blues
 * Ducky numpad w/ Cherry Browns
-* Levinson split keyboard w/ Gateron Blacks (needs fixing)
-* Levinson split keyboard w/ Cherry Clears (needs building)
+* [Keeb.io](https://keeb.io)'s Levinson split keyboard w/ Cherry Clears (needs building, planning on bringing to work, waiting on [DSA Astrolokeys](https://drop.com/buy/drop-dsa-astrolokeys-keycaps-by-sailorhg-and-cassidoo) to ship)
 
 ## Computers
 
