@@ -18,15 +18,15 @@ layout: layouts/page.njk
 * Mozilla Firefox
 * Wave, Axe Pro for quick accessibility checks
 
-## Mechanical Keyboards
+## Mechanical Keyboard
 
-* [Keeb.io](https://keeb.io)'s Levinson split keyboard w/ Gateron Blacks, [SA Ice Caps](https://pimpmykeyboard.com/sa-ice-cap-keyset/) (daily, home office, recently fixed!)
 * Leopold FC660M w/ Cherry Browns, [GMK Plum](https://drop.com/buy/massdrop-x-jessica-gmk-plum-custom-keycap-set) (daily, at work)
-* OLKB Planck w/ Cherry Clears, [XDA Oblique](https://dixiemech.store/collections/keycaps/products/xda-oblique)
+* OLKB Planck w/ Cherry Clears, [XDA Oblique](https://dixiemech.store/collections/keycaps/products/xda-oblique) (daily, at home)
 * K-Type Mechanical Keyboard w/ Halo Clears, [GMK Metropolis](https://novelkeys.xyz/products/gmk-metropolis)
 * Ducky One w/ Cherry Blues
 * Ducky numpad w/ Cherry Browns
-* [Keeb.io](https://keeb.io)'s Levinson split keyboard w/ Cherry Clears (needs building, planning on bringing to work, waiting on [DSA Astrolokeys](https://drop.com/buy/drop-dsa-astrolokeys-keycaps-by-sailorhg-and-cassidoo) to ship)
+* [Keeb.io](https://keeb.io)'s Levinson split keyboard w/ Cherry Clears (needs building, planning to use as my daily keyboard at home, waiting on [DSA Astrolokeys](https://drop.com/buy/drop-dsa-astrolokeys-keycaps-by-sailorhg-and-cassidoo) to arrive)
+* [Keeb.io](https://keeb.io)'s Levinson split keyboard w/ Gateron Blacks, [SA Ice Caps](https://pimpmykeyboard.com/sa-ice-cap-keyset/) (retired due to crossed connections because I didn't know what I was doing for this electronics project)
 
 ## Computers
 
