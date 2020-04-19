@@ -1,11 +1,13 @@
 ---
 layout: layouts/base.njk
+styles:
+    - /_includes/assets/css/blog.css
 ---
 
 <article class="blog-post">
     <h1>{{ title }}</h1>
 
-    <p><time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time></p>
+    <div><time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time></div>
 
     {{layoutContent | safe }}
 </article>

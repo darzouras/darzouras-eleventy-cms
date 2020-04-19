@@ -10,11 +10,11 @@
 					{% endif %}
 				</a>
 			</h3>
-			<p>
+			<div>
 				<time datetime="{{ post.date | machineDate }}">
 					{{ post.date | readableDate }}
 				</time>
-			</p>
+			</div>
 
 			{% if post.data.summary %}
 				<p>

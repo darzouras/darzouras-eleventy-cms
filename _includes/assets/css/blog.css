@@ -1,3 +1,7 @@
 .post {
     margin-top: 25px;
 }
+
+.blog-post p img[src$='#img-small'] {
+    width: 55%;
+}
