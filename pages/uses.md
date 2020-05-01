@@ -20,18 +20,17 @@ layout: layouts/page.njk
 
 ## Mechanical Keyboards
 
-* Leopold FC660M w/ Cherry Browns, [GMK Plum](https://drop.com/buy/massdrop-x-jessica-gmk-plum-custom-keycap-set) (daily, at work)
-* OLKB Planck w/ Cherry Clears, [XDA Oblique](https://dixiemech.store/collections/keycaps/products/xda-oblique) (daily, at home)
+* [Keeb.io](https://keeb.io)'s Levinson split keyboard w/ Cherry Clears, [DSA Astrolokeys](https://drop.com/buy/drop-dsa-astrolokeys-keycaps-by-sailorhg-and-cassidoo) (daily)
+* Leopold FC660M w/ Cherry Browns, [GMK Plum](https://drop.com/buy/massdrop-x-jessica-gmk-plum-custom-keycap-set) (daily, at the office)
+* OLKB Planck w/ Cherry Clears, [XDA Oblique](https://dixiemech.store/collections/keycaps/products/xda-oblique)
 * K-Type Mechanical Keyboard w/ Halo Clears, [GMK Metropolis](https://novelkeys.xyz/products/gmk-metropolis)
-* Ducky One w/ Cherry Blues
+* Ducky One w/ Cherry Blues, translucent pink body
 * Ducky numpad w/ Cherry Browns
-* [Keeb.io](https://keeb.io)'s Levinson split keyboard w/ Cherry Clears (planning to use as my daily keyboard at home, waiting on [DSA Astrolokeys](https://drop.com/buy/drop-dsa-astrolokeys-keycaps-by-sailorhg-and-cassidoo) to arrive)
-* [Keeb.io](https://keeb.io)'s Levinson split keyboard w/ Gateron Blacks, [SA Ice Caps](https://pimpmykeyboard.com/sa-ice-cap-keyset/) (retired- malfunctioning)
 
 ### Keyboard Wishlist
 
 * [Naked60MP](https://www.littlekeyboards.com/collections/catalog/products/naked60bmp-keyboard-kit) for traveling
-* [Ergodox EZ](https://ergodox-ez.com) for a second split keyboard for work/home
+* [Ergodox EZ](https://ergodox-ez.com) for a second split keyboard for office
 
 ## Computers
 
