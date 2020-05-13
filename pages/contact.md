@@ -1,6 +1,6 @@
 ---
 title: Contact
-permalink: contact
+permalink: /contact/
 layout: layouts/page.njk
 ---
 Want to reach out? Here's where you can find me:
