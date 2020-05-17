@@ -78,7 +78,7 @@ header {
     height:300px;
 }
 
-header::before,
+/* header::before,
 header::after {
     position: absolute;
     bottom: -1.5em;
@@ -94,7 +94,7 @@ header::before {
 header::after {
     right: calc(-4vw - 3px);
     border-radius: 0 25px 25px 0;
-}
+} */
 
 nav {
     background: var(--midtone);
