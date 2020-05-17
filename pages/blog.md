@@ -3,4 +3,4 @@ title: Blog
 permalink: /blog/
 layout: layouts/blog.njk
 ---
-Just saying.
+The intention for this blog is to record progress and challenges on personal and professional projects.
