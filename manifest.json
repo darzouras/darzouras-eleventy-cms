@@ -6,7 +6,7 @@
     "theme_color": "#eb2c44",
     "icons": [
         {
-            "src": "/favicon.ico",
+            "src": "/static/img/jigglypuff1.gif",
             "sizes": "16x16"
         }
     ]
