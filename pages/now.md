@@ -2,26 +2,24 @@
 title: Now
 permalink: /now/
 layout: layouts/page.njk
-header: /static/img/sailormoonattitude1.PNG
 summary: What have I been up to?
+header: /static/img/sailormoonattitude1.PNG
 ---
-What have I been up to?
-
-... and [what is a now page](https://nownownow.com/about)?
+What have I been up to? And [what is a now page](https://nownownow.com/about)?
 
 ## Personally
 
-Enjoying the first spring in my new home with my husband and tending to a small vegetable garden.
+Enjoying the first spring in my new home with my husband and trying desperately to keep my small vegetable garden alive.
 
 Recently went from vegetarian to full vegan. The current state of animal agriculture is unsustainable. I'm trying to do my part for the environment by refraining from animal products.
 
 ## Professionally
 
-Building TONS of websites for [160over90](https://160over90.com). Practicing CSS witchcraft and passing my magic to willing colleagues. Helping assess web projects built across the 160over90 digital teams on web accessibility. Also doing a little bit of web design.
+Building TONS of websites for [160over90](https://160over90.com). Practicing CSS magic and passing my practice to willing colleagues. Helping assess web projects built across the 160over90 digital teams on web accessibility. Also doing a little bit of web design.
 
-Like tons of other developers as well as the entire 160over90 team, I'm working from home for the forseeable future due to the threat of Covid-19. Happy to do what I can to protect my community.
+Like tons of other developers as well as the entire 160over90 team, I'm working from home for the foreseeable future due to the threat of Covid-19. Love being able to save nearly two hours a day on my commute and love hanging out with my furry babies all day.
 
-Studying for the [Web Accessibility Standards certification exam](https://www.accessibilityassociation.org/wascertification).
+Preparing to eventually take the [Web Accessibility Standards certification exam](https://www.accessibilityassociation.org/wascertification).
 
 ### Ongoing Maintenance and Updates
 
