@@ -3,6 +3,7 @@ backend:
   branch: master
 
 media_folder: "static/img"
+site_url: https://www.darzouras.com
 
 collections:
   - name: "pages"

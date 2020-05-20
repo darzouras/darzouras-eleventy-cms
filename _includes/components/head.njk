@@ -12,12 +12,21 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>DarZouras--{{ title }}</title>
+    <title>{{ metadata.site_name }}--{{ title }}</title>
 
-    <meta property="og:title" content="DarZouras--{{ title }}" />
-    <meta property="og:description" content="{{ summary }}" />
-    <meta property="og:image" content="{{ header }}" />
+    <meta property="og:title" content="{{ metadata.site_name }}--{{ title }}" />
+    {% if summaray %}
+        <meta property="og:description" content="{{ summary }}" />
+    {% else %}
+        <meta property="og:description" content="uwu" />
+    {% endif %}
+    <meta property="og:image" content="{{ metadata.site_url }}{{ header }}" />
     <meta property="og:locale" content="en_US" />
+    {% if layout == "layouts/post.njk" %}
+        <meta property="og:url" content="{{ metadata.site_url | safe }}/blog/{{title | slug }}" />
+    {% else %}
+        <meta property="og:url" content="{{ metadata.site_url | safe }}{{ permalink | safe }}" />
+    {% endif %}
 
     <link rel="manifest" href="/manifest.json">
     <link rel="icon" href="/static/img/jigglypuff1.gif" type="image/x-icon">
