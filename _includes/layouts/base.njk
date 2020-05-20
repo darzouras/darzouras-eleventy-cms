@@ -3,13 +3,15 @@
     {% include "components/head.njk" %}
 
     <body>
-        {% include "components/header.njk" %}
+        <div class="body-wrapper">
+            {% include "components/header.njk" %}
 
-        <main>
-            {{ layoutContent | safe }}
-        </main>
+            <main>
+                {{ layoutContent | safe }}
+            </main>
 
-        {% include "components/footer.njk" %}
+            {% include "components/footer.njk" %}
+        </div>
 
         {% for file in scripts %}
             <script src="{{ file }}"></script>

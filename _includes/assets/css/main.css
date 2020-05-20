@@ -57,19 +57,23 @@ body {
     background-color: var(--light);
 }
 
-header,
-footer {
+.body-wrapper {
     width: 90%;
     max-width: 500px;
-    background: var(--darkest);
+    margin: 1em auto 4em;
     border: 3px solid var(--darkest);
+    border-radius: 50px 50px 10px 10px;
+    display: block;
+    overflow: hidden;
+}
+
+header,
+footer {
+    background: var(--darkest);
     color: var(--light);
     text-align: center;
 }
 header {
-    margin: 1em auto 0;
-    border-bottom: 0px;
-    border-radius: 50px 50px 0 0;
     position: relative;
     padding: 1em;
     background-size: cover;
@@ -79,13 +83,7 @@ header {
 
 nav {
     background: var(--midtone);
-    border: 3px solid var(--darkest);
-    border-top: 0px;
-    border-bottom: 0px;
-    width: 90%;
-    max-width: 500px;
     padding: .75em 1em .75em;
-    margin: 0 auto;
     text-align: center;
 }
 nav ul {
@@ -107,9 +105,6 @@ nav a:hover {
 }
 
 footer {
-    margin: 0 auto 4em;
-    border-top: 0px;
-    border-radius: 0 0 10px 10px;
     padding: 1em;
     position: relative;
     font-size: .7rem;
@@ -117,50 +112,9 @@ footer {
     color: var(--lightest);
 }
 
-footer::after,
-footer::before {
-    position: absolute;
-    bottom: calc(-3em - 3px);
-    height: 3em;
-    width: 1em;
-    background: var(--darkest);
-    border-radius: 0 0 25px 25px;
-    content: '';
-}
-
-footer::after {
-    left: 10%;
-    animation: step 1s infinite;
-}
-
-footer::before {
-    right: 10%;
-    animation: step 1s infinite;
-    animation-delay: .5s;
-}
-
-@keyframes step {
-    0% {
-        height: 3em;
-    }
-    50% {
-        height: 2em;
-        bottom: calc(-2em - 3px);
-    }
-    100% {
-        height: 3em;
-    }
-}
-
 main {
     background: var(--lightest);
-    margin: 0 auto;
-    width: 90%;
-    max-width: 500px;
     padding: 1em 5% 2em;
-    border: 3px solid var(--darkest);
-    border-top-width: 0px;
-    border-bottom-width: 0px;
 }
 @media (min-width: 768px) {
     body {
