@@ -155,7 +155,7 @@ footer::before {
 main {
     background: var(--lightest);
     margin: 0 auto;
-    width: 80%;
+    width: 90%;
     max-width: 500px;
     padding: 1em 5% 2em;
     border: 3px solid var(--darkest);
