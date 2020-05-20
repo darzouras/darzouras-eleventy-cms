@@ -2,7 +2,7 @@
 title: DarZouras.com Updated
 date: 2019-08-30T16:24:11.808Z
 summary: Nearly complete with the rebuild of my personal site. Here's what's different.
-header: /static/img/sailormoonattitude1.PNG
+header: /static/img/old-site.jpg
 ---
 It's day one of a four day weekend and I'm neck deep in the rebuild of my personal website. Just in case you haven't seen it before the rebuild, this is what you were missing:
 
