@@ -72,29 +72,10 @@ header {
     border-radius: 50px 50px 0 0;
     position: relative;
     padding: 1em;
-    background-image: url(/static/img/sailormoonattitude1.PNG);
     background-size: cover;
     background-position: center;
     height:300px;
 }
-
-/* header::before,
-header::after {
-    position: absolute;
-    bottom: -1.5em;
-    width: 4vw;
-    height: 1em;
-    background: var(--darkest);
-    content: '';
-}
-header::before {
-    left: calc(-4vw - 3px);
-    border-radius: 25px 0 0 25px;
-}
-header::after {
-    right: calc(-4vw - 3px);
-    border-radius: 0 25px 25px 0;
-} */
 
 nav {
     background: var(--midtone);

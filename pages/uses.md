@@ -2,6 +2,7 @@
 title: Uses
 permalink: /uses/
 layout: layouts/page.njk
+header: /static/img/sailormoonattitude1.PNG
 ---
 * Overcast for podcasts
 * Spotify Premium for music

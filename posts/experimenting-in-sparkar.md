@@ -2,6 +2,7 @@
 title: Experimenting in SparkAR
 date: 2020-03-12T17:52:27.894Z
 summary: Spending downtime leveling up my AR game with Spark AR.
+header: /static/img/sailormoonattitude1.PNG
 ---
 Earlier this year there was a little dip in work so I had the chance to play with Spark AR.
 

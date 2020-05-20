@@ -2,6 +2,7 @@
 title: Now
 permalink: /now/
 layout: layouts/page.njk
+header: /static/img/sailormoonattitude1.PNG
 ---
 What have I been up to?
 

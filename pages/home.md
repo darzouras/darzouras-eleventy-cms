@@ -2,6 +2,7 @@
 title: Home
 permalink: /
 layout: layouts/home.njk
+header: /static/img/sailormoonattitude1.PNG
 ---
 Hi! I'm Darlene, a front end developer and artist. My dream is to become a Pokèmon trainer.
 

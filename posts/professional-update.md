@@ -2,6 +2,7 @@
 title: Professional Update
 date: 2019-10-29T21:17:57.360Z
 summary: Corporate name change and a fresh new position.
+header: /static/img/sailormoonattitude1.PNG
 ---
 OK, so, I haven't been great at keeping this updated but I also meant to do it only when projects launched and stuff and I GUESS I've been working on the same thing for the past few months and it still hasn't gone live.
 
