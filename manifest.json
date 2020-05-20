@@ -3,7 +3,7 @@
     "short_name": "DarZouras",
     "display": "browser",
     "start_url": "/",
-    "theme_color": "#eb2c44",
+    "theme_color": "#83cab2",
     "icons": [
         {
             "src": "/static/img/jigglypuff1.gif",
