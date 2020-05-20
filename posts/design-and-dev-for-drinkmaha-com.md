@@ -2,7 +2,7 @@
 title: Design AND Dev for DrinkMaha.com
 date: 2020-03-08T01:51:58.574Z
 summary: Stepped into a design role for this new AB project.
-header: /static/img/sailormoonattitude1.PNG
+header: /static/img/screencapture-drinkmaha-2020-03-07-19_58_42.png
 ---
 Early this year the team was presented with the opportunity to work with Maha, a new organic hard seltzer brand from Anheuser Busch. It's a new brand so it was an exciting challenge to help establish their voice from the beginning.
 
