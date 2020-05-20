@@ -3,6 +3,7 @@ title: Now
 permalink: /now/
 layout: layouts/page.njk
 header: /static/img/sailormoonattitude1.PNG
+summary: What have I been up to?
 ---
 What have I been up to?
 
